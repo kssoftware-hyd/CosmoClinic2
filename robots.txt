@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cosmoclinic.com/sitemap.xml
